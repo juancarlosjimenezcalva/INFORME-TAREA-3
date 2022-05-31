@@ -263,6 +263,34 @@ De acuerdo con el esquema se puede poner el interruptor en cuatro posiciones, po
 
 ![image](https://user-images.githubusercontent.com/105565683/171213434-8aab3d9f-c7bb-4657-8779-3f234115bced.png)
 
+![image](https://user-images.githubusercontent.com/105565683/171255063-6efb6cca-2a7b-42af-b375-dfffbe46171c.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171255099-41f69d42-af2d-43d5-b55e-a8aedf2c247f.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171255160-52b06e32-4f4b-423c-9c45-d51b022e9578.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171255198-60d34c6b-c315-4405-b0f4-6a090a4c8c08.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171255216-f6050a5b-2c7d-4450-9955-7ef50efd6c46.png)
+
+44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores.
+
+El diagrama del circuito queda así:
+
+![image](https://user-images.githubusercontent.com/105565683/171255392-6d889309-0ece-4b35-ac67-f0f6912059bd.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171256435-c344622b-0876-447f-a24d-73f01fe04b70.png)
+
+46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/105565683/171256555-d267e1ec-a06f-4ec1-97e8-4056f0ceb43f.png)
+
+48. Los siguientes resistores de 1 ⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+![image](https://user-images.githubusercontent.com/105565683/171258360-5acd0ed9-c105-46fa-a2dd-22decd1f09dc.png)
+
+50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
+
 
 
 
