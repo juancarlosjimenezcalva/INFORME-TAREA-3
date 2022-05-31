@@ -242,7 +242,13 @@ Como los 4 resistores están en paralelo el voltaje para cada resistor es de 12 
 
 ![image](https://user-images.githubusercontent.com/105565683/171076164-0cb92887-0d3a-43a7-98cf-639e72429138.png)
 
-![image](https://user-images.githubusercontent.com/105565683/171076237-93173e1b-05b5-4180-8d56-94f7b2bbc369.png)
+Siendo que existe un interruptor con tres posiciones, podemos trazar 3 corrientes. Siendo:
+
+![image](https://user-images.githubusercontent.com/105565683/171169765-083d7976-0b19-46f4-95b3-c772d720464d.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171169824-84a7cad6-bc8b-4842-9195-e0a149640209.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171169866-5a7695f8-dbbc-48f8-bac4-78e78ba75b3d.png)
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
@@ -310,6 +316,7 @@ El esquema del circuito queda de la siguiente forma:
 
 ## VIDEO
 
+https://youtu.be/NOGcjKqGcg0 
 
 ## CONCLUSIONES
 
