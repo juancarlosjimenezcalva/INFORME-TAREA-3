@@ -319,3 +319,10 @@ El esquema del circuito queda de la siguiente forma:
 - Las leyes de voltaje de Kirchhoff nos ayudan a comprender correctamente el funcionamiento de un circuito en serie y un circuito en paralelo, siendo que para el circuito en serie se utiliza la ley de voltaje, que dice que el voltaje total es igual a la suma de las caídas de voltaje del circuito, y para el circuito en paralelo se utiliza la ley de las corrientes, que dice que la sumatoria de las corrientes que entran a un nodo, es igual a la sumatoria de las corrientes que salen del nodo, de esta forma podemos comprender aun mejor las diferencias y comportamiento entre los circuitos en serie y paralelo.
 
 ## BIBLIOGRAFÍA
+
+electronicaonline. (4 de Abril de 2021). electronicaonline. Obtenido de electronicaonline: https://electronicaonline.net/circuito-electrico/circuito-en-serie-y-paralelo/
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos. Monterrey: Pearson Education.
+
+mecatronicalatam. (22 de Abril de 2021). mecatronicalatam. Obtenido de mecatronicalatam: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+
