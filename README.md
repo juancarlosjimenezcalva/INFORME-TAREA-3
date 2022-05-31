@@ -291,12 +291,43 @@ El diagrama del circuito queda así:
 
 50. Cierto circuito en serie se compone de un resistor de 1 ⁄8 W, un resistor de 1 ⁄4 W, y un resistor de 1 ⁄2 W. La resistencia total es de 2400Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: 
 
+![image](https://user-images.githubusercontent.com/105565683/171259706-62015d62-1d28-4692-a408-9adca0d10651.png)
 
+52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
+![image](https://user-images.githubusercontent.com/105565683/171259769-8b858d2b-3385-4abe-a5ef-3cfd4e85108a.png)
 
+Primero mido el voltaje en el punto A con respecto a tierra y luego el voltaje en el punto B con respecto a tierra.
 
+![image](https://user-images.githubusercontent.com/105565683/171259914-1c43343b-399d-43b7-96b5-0915c78ffb3e.png)
 
+54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2
 
+Lo que está mal en el circuito es que no hay corriente a través de las resistencias que tiene 0V, esto quiere decir que hay una abertura en el circuito, especialmente en R2. Por tanto, R2 es la resistencia abierta, cuyo voltaje es 12V; igual al voltaje de a fuente de poder.
+
+56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+![image](https://user-images.githubusercontent.com/105565683/171260030-6d905d98-09c2-4a15-963d-d7251df937ef.png)
+
+Mediría la corriente a partir de del voltaje e intensidad, pero sin tomar en cuenta a R2, dado que R2 resulta cero por el cortocircuito
+
+![image](https://user-images.githubusercontent.com/105565683/171260677-9e5312f1-2fd5-48d0-a505-2c1504acfff2.png)
+
+58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
+
+![image](https://user-images.githubusercontent.com/105565683/171261069-72318efe-7e5c-4106-a0a3-d58d90c55855.png)
+
+Dado que se leen 15kΩ entre las puntas 5 y 6 del circuito impreso, quiere decir que hubo un cortocircuito entre las resistencias R3 Y R5.
+
+60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1 ⁄2 W.
+
+a) ¿Qué sucedió? 
+b) Específicamente, ¿qué debe hacerse para arreglar el problema? 
+c) ¿Con qué voltaje ocurrió la falla?
+
+![image](https://user-images.githubusercontent.com/105565683/171261325-bcea72f1-4689-4a0b-90e5-a4d876e896d1.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171261496-cdccf860-e340-4368-910a-290d487ff5b8.png)
 
 ### CAPITULO 6 CIRCUITOS EN PARALELO:
 
@@ -384,9 +415,77 @@ El esquema del circuito queda de la siguiente forma:
 
 ![image](https://user-images.githubusercontent.com/105565683/171077425-9380b208-09a7-43b9-9735-541b1a45f594.png)
 
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
 
+![image](https://user-images.githubusercontent.com/105565683/171261635-4a4d383d-39c0-4f61-a745-8b6afe836586.png)
 
+![image](https://user-images.githubusercontent.com/105565683/171262133-83cd1270-99ec-4b04-abc4-5fda7efbee4c.png)
 
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![image](https://user-images.githubusercontent.com/105565683/171262326-0c3430d8-277d-4303-8529-09b2079126ca.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171262629-1a2c46da-869b-455e-ae69-afaf9d7e31c2.png)
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![image](https://user-images.githubusercontent.com/105565683/171262810-6ebaeaec-539a-4ea4-82b1-730c8b36566a.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171262860-365a1aa7-a6fd-4ec4-8d0c-a9f2f733be8f.png)
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/105565683/171262900-365b4ff4-482e-4808-a487-47255c49bab0.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171263099-14179c21-6a05-456f-aed1-a21c3070b287.png)
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica
+
+![image](https://user-images.githubusercontent.com/105565683/171263165-784ea853-8968-4220-a1fc-fa1d5b338648.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171263414-f208225d-ac11-4ed2-b592-ae4885a21916.png)
+
+36. a) Determine el valor requerido del resistor en derivación R_SH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Ω
+
+![image](https://user-images.githubusercontent.com/105565683/171263677-229c6eec-c907-430a-ac22-a8fc2bd51b45.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171263868-c4b535e3-0e28-4f92-bd69-7dd3054d79f2.png)
+
+b) Encuentre el valor requerido para R_SH2 en el circuito medidor de la figura 6-50 (R_M = 50Ω).
+
+![image](https://user-images.githubusercontent.com/105565683/171264092-3982bd42-da8d-46ba-bb78-8153211e84af.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171264211-1e30ec32-b1a2-43a1-8e1a-8667add3fe63.png)
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+![image](https://user-images.githubusercontent.com/105565683/171264314-6ebaa798-01d1-47fd-abc3-4bad40a057b6.png)
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+![image](https://user-images.githubusercontent.com/105565683/171264490-0d4c7a70-36d7-4488-a601-0fbcde7e0319.png)
+
+42. Cierto circuito en paralelo está compuesto por resistores de sólo 1 ⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+![image](https://user-images.githubusercontent.com/105565683/171264898-729f4ea2-4577-43ba-8682-66e001d64dd9.png)
+
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/105565683/171264945-4c33434c-ef51-4219-8a22-c8d39faef57a.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171269749-941b79c0-4a4e-4b74-bf32-4d1b46a996a0.png)
+
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/105565683/171269900-5bc6fc5c-da0d-4dd2-aaff-976bad6083eb.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171270239-b169deed-790e-4c25-a95b-589de9bb6a91.png)
+
+48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
+![image](https://user-images.githubusercontent.com/105565683/171270420-a74ed7ff-8437-4164-9e5a-eb57e4c0b74b.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171270685-c6139421-7d7c-4cf5-8af4-7de7c24b9044.png)
 
 ## VIDEO
 
