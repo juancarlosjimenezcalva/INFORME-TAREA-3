@@ -219,6 +219,24 @@ Siendo que existen dos interruptores, con tres posiciones para cada uno, podemos
 
 ![image](https://user-images.githubusercontent.com/105565683/171075930-b986cdad-45ba-436b-8841-99d98d29afc8.png)
 
+32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![image](https://user-images.githubusercontent.com/105565683/171170801-f5f47e89-0ffb-4014-80fd-6b78701e164f.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171173078-248be2df-2cef-469d-bf4b-6c0192f5a7a6.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171173157-5b086c67-ea5b-4100-86bc-e3e9117503ee.png)
+
+34. Encuentre R1, R2 y R3 en la figura 5-82
+
+![image](https://user-images.githubusercontent.com/105565683/171173455-1bc0912d-a892-4166-b7fd-c8e4768f3b3a.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171177051-1ae04215-2b22-4811-abc0-ad17b642505e.png)
+
+36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor
+
+![image](https://user-images.githubusercontent.com/105565683/171177240-73909af0-5750-4f3d-95bf-021747fabf86.png)
+
 
 
 
