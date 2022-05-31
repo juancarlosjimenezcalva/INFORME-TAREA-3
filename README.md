@@ -237,6 +237,34 @@ Siendo que existen dos interruptores, con tres posiciones para cada uno, podemos
 
 ![image](https://user-images.githubusercontent.com/105565683/171177240-73909af0-5750-4f3d-95bf-021747fabf86.png)
 
+De acuerdo con el esquema se puede poner el interruptor en cuatro posiciones, por ende, existen 4 trayectorias para las resistencias en serie.	
+
+![image](https://user-images.githubusercontent.com/105565683/171209542-b69f8824-3326-4b43-b389-642cb84a3040.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171209690-734f4935-842f-42fc-8391-3db8c8876583.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171209779-7b758c4b-a1ee-46b5-9999-01663f62d788.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171210245-b813d1e1-650d-4f55-87b1-b03c8964e136.png)
+
+38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![image](https://user-images.githubusercontent.com/105565683/171210452-45560d16-eb86-40f9-a612-5b9d38610cc3.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171211586-cc238416-ff75-4cfb-84c2-045c75887b69.png)
+
+40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b)
+
+![image](https://user-images.githubusercontent.com/105565683/171211690-01b040de-9216-4b89-adec-3a94ca2c1256.png)
+
+![image](https://user-images.githubusercontent.com/105565683/171213352-62352c08-5ba7-4ef3-848e-83ded9f42e11.png)
+
+42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
+
+![image](https://user-images.githubusercontent.com/105565683/171213434-8aab3d9f-c7bb-4657-8779-3f234115bced.png)
+
+
+
 
 
 
