@@ -24,6 +24,10 @@ Un ejemplo de circuito en serie, es el siguiente:
 
 Como podemos ver la trayectoria es completamente cerrada, y va en una sola dirección para R1, R2 y R3.
 
+En la vida real un circuito en serie, se vería asi:
+
+![image](https://user-images.githubusercontent.com/105565683/171074735-ed836e18-120f-496e-b274-ac0cd9e2b5db.png)
+
 #### CALCULAR CORRIENTE, RESISTENCIA Y VOLTAJE EN UN CIRCUITO EN SERIE
 
 ##### CORRIENTE
@@ -54,6 +58,10 @@ Un ejemplo de circuito en paralelo, es el siguiente:
 
 Como podemos ver la trayectoria está dividida en tres partes, y va en tres direcciones para R1, R2 y R3.
 
+En la vida real un circuito en paralelo se vería asi:
+
+![image](https://user-images.githubusercontent.com/105565683/171074774-4119a9a2-18c2-4c5c-9400-80f6c050379b.png)
+
 #### CALCULAR VOLTAJE, CORRIENTE Y RESISTENCIA EN UN CIRCUITO EN PARALELO
 
 ##### VOLTAJE
@@ -82,6 +90,26 @@ Y se reescribe de esta manera:
 
 ### CAPITULO 5 CIRCUITOS EN SERIE:
 
+2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
+
+![image](https://user-images.githubusercontent.com/105565683/171074837-9696a09f-e48d-4bea-9977-6ad2c62c8c70.png)
+
+-	De la punta 1 a la 8, están en serie los resistores: R13, R7, R14 y R16.
+-	De la punta 2 a la 3, están en serie los resistores: R12, R8 y R6.
+-	De la punta 4 a la 7, están en serie los resistores: R10, R11, R15 y R5.
+-	De la punta 5 a la 6, están en serie los resistores: R1, R2, R3, R4 yR9.
+
+Para que todos los resistores estén en serie, se coloca de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105565683/171074875-9a300849-aa3e-41eb-93bf-1e6a6d0fedc4.png)
+
+4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+
+![image](https://user-images.githubusercontent.com/105565683/171074893-bdf548bf-2fa4-4182-b53a-739630a916fe.png)
+
+Por las puntas 2 y 3, pasan las resistencias R_12,R_8,R_6, lo valores de las resistencias son:
+
+![image](https://user-images.githubusercontent.com/105565683/171074931-d80defb2-ba55-4372-834b-d1eab65cadd0.png)
 
 
 
