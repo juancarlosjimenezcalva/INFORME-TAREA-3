@@ -313,6 +313,9 @@ El esquema del circuito queda de la siguiente forma:
 
 ## CONCLUSIONES
 
-
+- Un circuito en serie es aquel cuya corriente va en una sola trayectoria, cuyas características principales son que el voltaje se divide y la corriente es constante.
+- Un circuito en paralelo es aquí cuya corriente va en varias trayectorias, cuyas características principales son que el voltaje es constante y la corriente se divide.
+- Para calcular la resistencia, corriente, voltaje, se debe utilizar varios aspectos: la ley de ohm, las leyes de voltaje y corriente de Kirchhoff y utilizar y comprender las mismas características del circuito sea en serie o paralelo.
+- Las leyes de voltaje de Kirchhoff nos ayudan a comprender correctamente el funcionamiento de un circuito en serie y un circuito en paralelo, siendo que para el circuito en serie se utiliza la ley de voltaje, que dice que el voltaje total es igual a la suma de las caídas de voltaje del circuito, y para el circuito en paralelo se utiliza la ley de las corrientes, que dice que la sumatoria de las corrientes que entran a un nodo, es igual a la sumatoria de las corrientes que salen del nodo, de esta forma podemos comprender aun mejor las diferencias y comportamiento entre los circuitos en serie y paralelo.
 
 ## BIBLIOGRAFÍA
